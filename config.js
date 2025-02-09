@@ -22,11 +22,11 @@ module.exports = {
       secure: false
     },
     {
-     "identifier": "Muzykant v4",
-     "password": "https://discord.gg/v6sdrD9kPh",
-     "host": "lavalink_v4.muzykant.xyz",
-     "port": 80,
-     "secure": false
+      name: "ChalresNaig Node",
+      password: "NAIGLAVA-dash.techbyte.host",
+      host: "lavahatry4.techbyte.host",
+      port: 3000,
+      secure: false
     }
   ]
 }
